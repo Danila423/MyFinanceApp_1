@@ -1,0 +1,7 @@
+namespace MyFinanceApp.Commands
+{
+    public interface ICommand
+    {
+        void Execute();
+    }
+}
